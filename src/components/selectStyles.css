@@ -1,0 +1,9 @@
+.selectOptions{
+    outline: none;
+    margin-bottom: 1rem;
+    width: 300px;
+    height: 35px;
+    border: 0;
+    border-radius: 5px;
+    padding: 0 10px;
+}
